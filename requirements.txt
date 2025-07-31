@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+urllib3==1.26.18
+cython==3.0.6
+pyinstaller==6.2.0
